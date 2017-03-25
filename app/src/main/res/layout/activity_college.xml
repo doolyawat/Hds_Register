@@ -54,12 +54,6 @@
                 android:background="#ffffff"
                 android:text="ย้อนกลับ" />
 
-            <Button
-                android:layout_width="110dp"
-                android:layout_height="40dp"
-                android:layout_margin="5dp"
-                android:background="#ffffff"
-                android:text="ย้อนกลับ" />
 
             <Button
                 android:layout_width="110dp"
